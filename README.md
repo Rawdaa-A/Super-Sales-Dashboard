@@ -20,7 +20,7 @@ The interactive dashboard provides insights into:
 
 ## 🖼️ Project Showcases
 ### 1️⃣ Sales Dashboard
-![Sales Dashboard](<img width="1859" height="625" alt="Screenshot 2026-03-05 113255" src="https://github.com/user-attachments/assets/c43be665-0d68-4251-b486-73790166a158" />)
+![Sales Dashboard](superstore/Screenshot 2026-03-05 113255.png)
 
 ### 2️⃣Video Demonstration
 <video src="https://github.com/user-attachments/assets/e46a83f0-3f8e-4a85-8742-49e3212e9b3f" controls="controls" style="max-width: 100%;">
